@@ -1,2 +1,2 @@
-# Oparating-System
+# Operating-System
 os algorithms
